@@ -65,6 +65,8 @@ Ces deux menus sont responsive et disparaissent lorsqu'ils n'ont plus assez de p
 #### Voici un apperçu des menu d'abonnements / abonnés quant on a cliqué sur le menu en question et que la modale s'ouvre
 ![](https://github.com/CorentinDNT/bacefook-prod/blob/main/client/public/img/ScreenShots/follow-modale-overview.png)
 
+*réalisé a l'aide d'un exercice*
+
 
 ## Comment cloner ce Bacefook et la base de données ?
 
