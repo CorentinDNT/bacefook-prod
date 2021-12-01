@@ -1,5 +1,5 @@
-# Le réseau social Bacefook !
-
+# :computer: :sparkles: Le réseau social Bacefook ! :sparkles: :computer:
+## Projet M.E.R.N -> MongoDB / Express / React & Redux / Node
 ## Quelques screenshots du site: 
 
 ### Tout d'abord la page d'accueil qui nous offre toutes les possibilitées suivantes
@@ -67,3 +67,22 @@ Ces deux menus sont responsive et disparaissent lorsqu'ils n'ont plus assez de p
 
 
 ## Comment cloner ce Bacefook et la base de données ?
+
+### Configuration du back-end :
+
+1. Tout d'abord, créer un cluster sur MongoDB
+2. Une fois créer connectez-vous a celui-ci sur Mongo-Compass et insérez-y les deux fichiers trouvables [ici](https://github.com/CorentinDNT/bacefook-prod/tree/main/Database_Stuffs) : 
+3. Se connecter a ce cluster e, y rentrant les informatios dans ```/config/db.js```
+4. Créer un fichier ``.env`` dans le dossier ``/config/`` avec les variables suivantes :
+* PORT=5000
+* DB_USER_PASS=``votre identifiant et mot de passe au cluster``
+* TOKEN_SECRET=``un clé généré aléatoirement, sécurisé``
+* CLIENT_URL=http://localhost:3000``Ou alors votre url client``
+* Dans votre termial faites ``npm i``
+* Enfin, lancez le serveur avec la commande ```npm start``
+
+### Configuration du front-end :
+1. Créer un fichier ``.env`` qui contient
+* REACT_APP_API_URL=http://localhost/ ``Ou alors votre url serveur``
+* Dans un nouveau terminal faites la commande ``npm i``
+* Une fois l'installation terminée faire la commande ``cd client\`` + ``npm start``
