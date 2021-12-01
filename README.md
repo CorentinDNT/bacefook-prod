@@ -85,6 +85,6 @@ Ces deux menus sont responsive et disparaissent lorsqu'ils n'ont plus assez de p
 
 ### Configuration du front-end :
 1. Créer un fichier ``.env`` qui contient
-* REACT_APP_API_URL=http://localhost/  ``Ou alors votre url serveur``
+* REACT_APP_API_URL=http://localhost/ , ``Ou alors votre url serveur``
 * Dans un nouveau terminal faites la commande ``npm i``
 * Une fois l'installation terminée faire la commande ``cd client\`` + ``npm start``
