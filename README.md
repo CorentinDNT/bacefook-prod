@@ -79,12 +79,12 @@ Ces deux menus sont responsive et disparaissent lorsqu'ils n'ont plus assez de p
 * PORT=5000
 * DB_USER_PASS=``votre identifiant et mot de passe au cluster``
 * TOKEN_SECRET=``un clé généré aléatoirement, sécurisé``
-* CLIENT_URL=http://localhost:3000``Ou alors votre url client``
+* CLIENT_URL=http://localhost:3000/ ``Ou alors votre url client``
 * Dans votre termial faites ``npm i``
 * Enfin, lancez le serveur avec la commande ```npm start``
 
 ### Configuration du front-end :
 1. Créer un fichier ``.env`` qui contient
-* REACT_APP_API_URL=http://localhost/ , ``Ou alors votre url serveur``
+* REACT_APP_API_URL=http://localhost/ ``Ou alors votre url serveur``
 * Dans un nouveau terminal faites la commande ``npm i``
 * Une fois l'installation terminée faire la commande ``cd client\`` + ``npm start``
