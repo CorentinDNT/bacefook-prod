@@ -1,0 +1,340 @@
+[{
+  "_id": {
+    "$oid": "613623f021d321154cb84364"
+  },
+  "picture": "./uploads/profil/maggie.jpg",
+  "followers": [
+    "6136275221d321154cb8437f"
+  ],
+  "following": [],
+  "likes": [],
+  "pseudo": "maggie",
+  "email": "maggie@simposons.fr",
+  "password": "$2b$10$ALDpoZpzeuLjdjNlkp1KIOQ8pI6xXoQFi6XsJJJV5C0iQI657xdci",
+  "createdAt": {
+    "$date": "2021-09-06T14:21:36.535Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T14:40:29.061Z"
+  },
+  "__v": 0,
+  "bio": "gnut gnut gnut 🍼🍭🍭"
+},{
+  "_id": {
+    "$oid": "613624fd21d321154cb8436a"
+  },
+  "picture": "./uploads/profil/ElBarto.jpg",
+  "followers": [
+    "6136275221d321154cb8437f"
+  ],
+  "following": [],
+  "likes": [],
+  "pseudo": "ElBarto",
+  "email": "batrhelemy@simposons.fr",
+  "password": "$2b$10$M6pmVh9uiYQgUZB/E1stJu/FSWFqecL5Mzr2W6TLPhXd61aIHgyt2",
+  "createdAt": {
+    "$date": "2021-09-06T14:26:05.318Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T14:40:27.634Z"
+  },
+  "__v": 0,
+  "bio": "Le meilleur voyou de tout sprignfield ! \nSigné: El Barto ! "
+},{
+  "_id": {
+    "$oid": "613625d321d321154cb84370"
+  },
+  "picture": "./uploads/profil/homerS.jpg",
+  "followers": [
+    "6136275221d321154cb8437f",
+    "6136295221d321154cb84391",
+    "613629f221d321154cb84397",
+    "61362b4b21d321154cb843a5"
+  ],
+  "following": [],
+  "likes": [
+    "613624b321d321154cb84369"
+  ],
+  "pseudo": "homerS",
+  "email": "homers@simpsons.fr",
+  "password": "$2b$10$zC9RmJWo6S.GBkulSmQl/.C7kuIqqhfLGzQzX5xroCsnzGk.dl0Fq",
+  "createdAt": {
+    "$date": "2021-09-06T14:29:39.183Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T14:54:10.964Z"
+  },
+  "__v": 0,
+  "bio": "Hummm donuts..."
+},{
+  "_id": {
+    "$oid": "613626b021d321154cb84378"
+  },
+  "picture": "./uploads/profil/margeS.jpg",
+  "followers": [
+    "6136275221d321154cb8437f"
+  ],
+  "following": [],
+  "likes": [],
+  "pseudo": "margeS",
+  "email": "marges@simpsons.fr",
+  "password": "$2b$10$MXKUHvkjQZEemQ7cIwMxfuN.VZly6o6JRUw.tULuesgxYHAzCvzTG",
+  "createdAt": {
+    "$date": "2021-09-06T14:33:20.214Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T14:40:24.570Z"
+  },
+  "__v": 0,
+  "bio": "Je suis la femme du meilleur marie de springfield ! <3"
+},{
+  "_id": {
+    "$oid": "6136275221d321154cb8437f"
+  },
+  "picture": "./uploads/profil/lisaSmp.jpg",
+  "followers": [],
+  "following": [
+    "613626b021d321154cb84378",
+    "613625d321d321154cb84370",
+    "613624fd21d321154cb8436a",
+    "613623f021d321154cb84364"
+  ],
+  "likes": [
+    "613626ea21d321154cb84379",
+    "613629c221d321154cb84396",
+    "6136263921d321154cb84375",
+    "613624b321d321154cb84369",
+    "61362e9821d321154cb843c3"
+  ],
+  "pseudo": "lisaSmp",
+  "email": "lisa@simpsons.fr",
+  "password": "$2b$10$nNaJhZ/2GhTELLwBrRX75OfG5OGmNu6yXskfhlhKMiWCft/ZfZG0a",
+  "createdAt": {
+    "$date": "2021-09-06T14:36:02.286Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T15:09:03.578Z"
+  },
+  "__v": 0,
+  "bio": "le Saxophone les poneys et les mathématiques sont mes passions 💘"
+},{
+  "_id": {
+    "$oid": "6136289921d321154cb84388"
+  },
+  "picture": "./uploads/profil/MONTYburns.jpg",
+  "followers": [
+    "61362bfa21d321154cb843ac",
+    "61362cb821d321154cb843b5"
+  ],
+  "following": [
+    "61362bfa21d321154cb843ac"
+  ],
+  "likes": [],
+  "pseudo": "MONTYburns",
+  "email": "burns@simpsons.fr",
+  "password": "$2b$10$OA13hAWQfboWtumit0DxqOQ4oxZn6Su7qfqGhTz.JeGrTrTYHz.d6",
+  "createdAt": {
+    "$date": "2021-09-06T14:41:29.328Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T15:02:24.253Z"
+  },
+  "__v": 0,
+  "bio": "La centrale est tout ce qui m'importe."
+},{
+  "_id": {
+    "$oid": "6136295221d321154cb84391"
+  },
+  "picture": "./uploads/profil/jakeAT.jpg",
+  "followers": [
+    "613629f221d321154cb84397",
+    "61362b4b21d321154cb843a5",
+    "61362bfa21d321154cb843ac",
+    "61362dec21d321154cb843be"
+  ],
+  "following": [
+    "613629f221d321154cb84397",
+    "613625d321d321154cb84370"
+  ],
+  "likes": [
+    "61362a6a21d321154cb8439f",
+    "613629c221d321154cb84396",
+    "6136263921d321154cb84375",
+    "613624b321d321154cb84369",
+    "61362e9821d321154cb843c3"
+  ],
+  "pseudo": "jakeAT",
+  "email": "jakeat@adventuretimes.fr",
+  "password": "$2b$10$e3ZLkjPAABn60y1Pu9/9c.iUiz3DuF50ugPzomCMaxCOZFzxqOG9e",
+  "createdAt": {
+    "$date": "2021-09-06T14:44:34.464Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T15:08:42.909Z"
+  },
+  "__v": 0,
+  "bio": "Je suis le meilleur copain de finn l'humain !"
+},{
+  "_id": {
+    "$oid": "613629f221d321154cb84397"
+  },
+  "picture": "./uploads/profil/finnAT.jpg",
+  "followers": [
+    "6136295221d321154cb84391",
+    "61362b4b21d321154cb843a5",
+    "61362bfa21d321154cb843ac",
+    "61362dec21d321154cb843be"
+  ],
+  "following": [
+    "6136295221d321154cb84391",
+    "613625d321d321154cb84370",
+    "61362dec21d321154cb843be"
+  ],
+  "likes": [
+    "613629c221d321154cb84396",
+    "6136263921d321154cb84375",
+    "613624b321d321154cb84369",
+    "6136257621d321154cb8436b",
+    "61362e9821d321154cb843c3"
+  ],
+  "pseudo": "finnAT",
+  "email": "finnat@adventuretimes.fr",
+  "password": "$2b$10$nduQMHHOzVre6bidP.m/v.RHdqloTaaPRUwdWv7sH2jbYEVSOTu/a",
+  "createdAt": {
+    "$date": "2021-09-06T14:47:14.914Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T15:08:26.448Z"
+  },
+  "__v": 0,
+  "bio": "Je suis finn le grand chevalier du royaume de la confiserie "
+},{
+  "_id": {
+    "$oid": "61362b4b21d321154cb843a5"
+  },
+  "picture": "./uploads/profil/gumgum.jpg",
+  "followers": [],
+  "following": [
+    "613629f221d321154cb84397",
+    "6136295221d321154cb84391",
+    "613625d321d321154cb84370"
+  ],
+  "likes": [
+    "61362a6a21d321154cb8439f",
+    "6136263921d321154cb84375",
+    "613624b321d321154cb84369"
+  ],
+  "pseudo": "gumgum",
+  "email": "gumgum@adventuretimes.fr",
+  "password": "$2b$10$stpCFkP.Bo/JwWJETpy3p.6f.OVAUbrKi2fNIHCao.UjW7QEVPTvq",
+  "createdAt": {
+    "$date": "2021-09-06T14:52:59.538Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T14:54:48.504Z"
+  },
+  "__v": 0,
+  "bio": "Quesce que c'est épuisant d'être une princesse..."
+},{
+  "_id": {
+    "$oid": "61362bfa21d321154cb843ac"
+  },
+  "picture": "./uploads/profil/rwadéglasse.jpg",
+  "followers": [
+    "6136289921d321154cb84388"
+  ],
+  "following": [
+    "6136289921d321154cb84388",
+    "613629f221d321154cb84397",
+    "6136295221d321154cb84391"
+  ],
+  "likes": [
+    "613624b321d321154cb84369",
+    "6136257621d321154cb8436b",
+    "6136263921d321154cb84375"
+  ],
+  "pseudo": "rwadéglasse",
+  "email": "rwadéglasse@a.fr",
+  "password": "$2b$10$UA5w4EPzMNJT.PKTSZqsdujRLcAcpcR4c3l6he6OmfoXAET4.Sz1O",
+  "createdAt": {
+    "$date": "2021-09-06T14:55:54.895Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T14:57:50.205Z"
+  },
+  "__v": 0,
+  "bio": "Gunteeeeeerrrr !!"
+},{
+  "_id": {
+    "$oid": "61362cb821d321154cb843b5"
+  },
+  "picture": "./uploads/profil/leJoker.jpg",
+  "followers": [],
+  "following": [
+    "6136289921d321154cb84388",
+    "61362dec21d321154cb843be"
+  ],
+  "likes": [
+    "613624b321d321154cb84369",
+    "613629c221d321154cb84396",
+    "61362e9821d321154cb843c3"
+  ],
+  "pseudo": "leJoker",
+  "email": "lejoker@gotham.fr",
+  "password": "$2b$10$s7c8q4hlZl0.r3/JBoNwFem6oTPCtUNJr7wSdMhvdFw0srLIF2lzm",
+  "createdAt": {
+    "$date": "2021-09-06T14:59:04.998Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T15:08:34.953Z"
+  },
+  "__v": 0,
+  "bio": "Qu'est-ce que je fous sur ce réseau ?"
+},{
+  "_id": {
+    "$oid": "61362dec21d321154cb843be"
+  },
+  "picture": "./uploads/profil/corentin.jpg",
+  "followers": [
+    "613629f221d321154cb84397",
+    "61362cb821d321154cb843b5"
+  ],
+  "following": [
+    "6136295221d321154cb84391",
+    "613629f221d321154cb84397"
+  ],
+  "likes": [
+    "613629c221d321154cb84396",
+    "61362e9821d321154cb843c3",
+    "6136280421d321154cb84381"
+  ],
+  "pseudo": "corentin",
+  "email": "corentin@gmail.com",
+  "password": "$2b$10$/9aid4Y5XbUyBexe4AWYneI7oTxCCScO15BGQWQ.uvCduDXHheOzO",
+  "createdAt": {
+    "$date": "2021-09-06T15:04:12.785Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-01T17:35:50.918Z"
+  },
+  "__v": 0,
+  "bio": "Bonjour c'est moi corentin"
+},{
+  "_id": {
+    "$oid": "61a7aa6b9993d0275846d13d"
+  },
+  "picture": "./uploads/profil/random-user.png",
+  "followers": [],
+  "following": [],
+  "likes": [],
+  "pseudo": "UserTEST",
+  "email": "usertest@gmail.com",
+  "password": "$2b$10$T2RbB94lK4uqwH5PuIEpuuJWMU2A1GMnmXNWRyf5zD5QMCf601.s.",
+  "createdAt": {
+    "$date": "2021-12-01T17:01:31.916Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-01T17:01:31.916Z"
+  },
+  "__v": 0
+}]
